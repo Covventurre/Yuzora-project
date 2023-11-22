@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  text-align: center;
+  padding: auto;
+}
+
+.login-main {
+  background-color: rgba(238, 233, 233, 0.438);
+  backdrop-filter: blur(10px);
+  display: block;
+  border-radius: 16px;
+  margin: auto;
+}
+
+.container {
+  background-color: white;
+  padding: 26px 35em;
+  margin: 149px 125px;
+  display: contents;
+  max-width: fit-content;
+}
+
+.login-form {
+  background-color: white;
+  padding: 129px;
+  margin: 133px;
+  border-radius: 10px;
+  display: block;
+}
